@@ -1,0 +1,6 @@
+.container{width:530px;margin-top:50px;margin-bottom:50px;font-family:'Open Sans',sans-serif;;}
+.container h1{background:#be697a;width:100%;padding-left:30px;margin:0;font-size:36px;font-weight:700;line-height:80px;color:#fff;}
+.container .main{position:relative;background:#bbdadc;padding:18px 18px 110px 18px;min-height:510px;}
+.container .main li label{display:block;background:#eef6f7;margin-top:5px;font-weight:700;font-size:36px;line-height:80px;border:1px solid #98ced1;-webkit-border-radius:10px;border-radius:10px;color:#5f6565;}.
+container .main form{position:absolute;bottom:0;width:494px;}
+.container .main form input{width:100%;height:78px;display:inline-block;background:#eef6f7;margin-top:5px;font-weight:700;font-size:33px;line-height:78px;border:1px solid #98ced1;-webkit-border-radius:10px;border-radius:10px;color:#5f6565;}
